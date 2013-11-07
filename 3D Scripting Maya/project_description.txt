@@ -1,0 +1,7 @@
+Project – Flower Power script
+
+  You will take the flower builder script flowerPetal.mel and convert it to python and extend its functionality. flowerPetal.mel creates a pretty flower. Specifically Project 2 consists of the following steps:
+
+      i. Convert flowerPetal.mel to flowerPetal,py
+      ii. Color the procedurally generated flowers using scripted shaders
+      iii. Propose an animation of flowerPetal,py and implement your procedural animation of the flowers script.
